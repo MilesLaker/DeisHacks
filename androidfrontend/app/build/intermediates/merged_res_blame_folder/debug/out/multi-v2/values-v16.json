@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cdcw.nfc.app-mergeDebugResources-2:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/mileslaker/.gradle/caches/transforms-3/b1386c5bfa59feb8867381297a41704a/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
